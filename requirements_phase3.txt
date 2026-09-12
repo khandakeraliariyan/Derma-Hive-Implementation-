@@ -1,0 +1,3 @@
+# Additional dependency for the isolated Phase 3 efficiency utility only.
+# Training and evaluation do not import or require fvcore.
+fvcore>=0.1.5.post20221221
